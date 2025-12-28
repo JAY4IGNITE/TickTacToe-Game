@@ -30,5 +30,4 @@ This project is designed to demonstrate basic C++ programming concepts and struc
 - Compiler: GCC / MinGW
 - Platform: Command Line Interface
 
-## Project Structure
 
